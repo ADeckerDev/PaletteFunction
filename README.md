@@ -2,7 +2,7 @@
 As Promised this is my palette function, have a look, see if it can be optimized, and comment your ideas. I'd love to add your ideas for palettes, as well as any optimizations you can come up with. I am a *Swift Ameture*, so try not to judge too hard. 
 
 
-## Code
+## [Code](./palette.swift)
 
 
 ## Other Stuff
